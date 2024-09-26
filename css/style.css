@@ -81,10 +81,18 @@ a {
 .contact {
     background-color: var(--DesaturatedBlue);
 }
+
 .footer {
     background-color: var(--VeryDarkBlue);
     color: white;
 }
+
+.footer .row div a {
+  display: block;
+  color: white;
+}
+
+
 
 .footer .logo {
 color: white;
